@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Comp2019.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2AE05DE2-6A34-45AD-BB92-CF8B63C8BEDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Comp2019.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Comp2019Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9952CC51-47A3-4552-BC55-649C6CC6E77A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Comp2019">
+      <UniqueIdentifier>{C7975B97-62E5-4B70-8464-6918343816E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Comp2019\Comp2019.Build.cs">
+      <Filter>Source\Comp2019</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Comp2019\Comp2019.cpp">
+      <Filter>Source\Comp2019</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Comp2019\Comp2019.h">
+      <Filter>Source\Comp2019</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Comp2019\Comp2019GameModeBase.cpp">
+      <Filter>Source\Comp2019</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Comp2019\Comp2019GameModeBase.h">
+      <Filter>Source\Comp2019</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

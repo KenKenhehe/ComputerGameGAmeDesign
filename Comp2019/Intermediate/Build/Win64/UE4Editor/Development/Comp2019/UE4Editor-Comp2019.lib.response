@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Comp2019.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\Comp2019Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\Comp2019.cpp.obj"
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\Comp2019GameModeBase.cpp.obj"
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\Comp2019.init.gen.cpp.obj"
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\Comp2019GameModeBase.gen.cpp.obj"
+"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\PCLaunch.rc.res"
+/OUT:"D:\ComputerGameDesignConcepts\Assignment\ComputerGameGAmeDesign\Comp2019\Intermediate\Build\Win64\UE4Editor\Development\Comp2019\UE4Editor-Comp2019.lib"
